@@ -1,2 +1,5 @@
-package ym.example.sfgdi.services;public interface GreetingService {
+package ym.example.sfgdi.services;
+
+public interface GreetingService  {
+    String sayGreeting();
 }
